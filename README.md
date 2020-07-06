@@ -6,4 +6,6 @@ ENV:python3.*
 
 # Usage:
 pip3 install psutil 或 pip3 install -i https://pypi.douban.com/simple psutil
+
+
 python3 cpu_record.py
